@@ -1,0 +1,19 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(排序算法实践.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  test.c
+D:\程序设计基础作业\排序算法实践\排序算法实践\test.c(95,6): error C2084: 函数“char isempty(Sqlist)”已有主体
+D:\程序设计基础作业\排序算法实践\排序算法实践\test.c(80): message : 参见“isempty”的前一个定义
+D:\程序设计基础作业\排序算法实践\排序算法实践\test.c(477,37): warning C4013: “searchlinklistbylocate”未定义；假设外部返回 int
+D:\程序设计基础作业\排序算法实践\排序算法实践\test.c(477,1): warning C4047: “初始化”:“linklist”与“int”的间接级别不同
+D:\程序设计基础作业\排序算法实践\排序算法实践\test.c(496,1): warning C4047: “初始化”:“linklist”与“int”的间接级别不同
+D:\程序设计基础作业\排序算法实践\排序算法实践\test.c(515,10): error C2040: “searchlinklistbylocate”:“linklist (linklist,int)”与“int ()”的间接寻址级别不同
+D:\程序设计基础作业\排序算法实践\排序算法实践\test.c(578,10): error C2084: 函数“linklist searchlinklistbyvalue(linklist,Elemtype)”已有主体
+D:\程序设计基础作业\排序算法实践\排序算法实践\test.c(529): message : 参见“searchlinklistbyvalue”的前一个定义
+D:\程序设计基础作业\排序算法实践\排序算法实践\test.c(591,5): error C2084: 函数“int searchseqlisthalf(Seqlist,Elemtype)”已有主体
+D:\程序设计基础作业\排序算法实践\排序算法实践\test.c(287): message : 参见“searchseqlisthalf”的前一个定义
+D:\程序设计基础作业\排序算法实践\排序算法实践\test.c(636,6): error C2086: “int j”: 重定义
+D:\程序设计基础作业\排序算法实践\排序算法实践\test.c(626): message : 参见“j”的声明
+D:\程序设计基础作业\排序算法实践\排序算法实践\test.c(648,1): warning C4005: “max”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdlib.h(1282): message : 参见“max”的前一个定义
+D:\程序设计基础作业\排序算法实践\排序算法实践\test.c(749,13): warning C4013: “popsqstack”未定义；假设外部返回 int
+D:\程序设计基础作业\排序算法实践\排序算法实践\test.c(765,6): error C2371: “popsqstack”: 重定义；不同的基类型
+D:\程序设计基础作业\排序算法实践\排序算法实践\test.c(1036,1): warning C4047: “初始化”:“linknode”与“linknode *”的间接级别不同
