@@ -1,0 +1,41 @@
+﻿  test.c
+D:\learning C\树与图_实践\树与图_实践\test.c(35,23): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+D:\learning C\树与图_实践\树与图_实践\test.c(35,23): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\learning C\树与图_实践\树与图_实践\test.c(35,26): error C2059: 语法错误:“)”
+D:\learning C\树与图_实践\树与图_实践\test.c(36,1): error C2054: 在“l”之后应输入“(”
+D:\learning C\树与图_实践\树与图_实践\test.c(46,22): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+D:\learning C\树与图_实践\树与图_实践\test.c(46,22): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\learning C\树与图_实践\树与图_实践\test.c(46,25): error C2059: 语法错误:“)”
+D:\learning C\树与图_实践\树与图_实践\test.c(47,1): error C2054: 在“l”之后应输入“(”
+D:\learning C\树与图_实践\树与图_实践\test.c(57,22): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+D:\learning C\树与图_实践\树与图_实践\test.c(57,22): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\learning C\树与图_实践\树与图_实践\test.c(57,25): error C2059: 语法错误:“)”
+D:\learning C\树与图_实践\树与图_实践\test.c(58,1): error C2054: 在“l”之后应输入“(”
+D:\learning C\树与图_实践\树与图_实践\test.c(68,23): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+D:\learning C\树与图_实践\树与图_实践\test.c(68,23): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\learning C\树与图_实践\树与图_实践\test.c(68,26): error C2059: 语法错误:“)”
+D:\learning C\树与图_实践\树与图_实践\test.c(68,27): error C2061: 语法错误: 标识符“undone”
+D:\learning C\树与图_实践\树与图_实践\test.c(68,27): error C2059: 语法错误:“;”
+D:\learning C\树与图_实践\树与图_实践\test.c(69,1): error C2449: 在文件范围内找到“{”(是否缺少函数头?)
+D:\learning C\树与图_实践\树与图_实践\test.c(78,1): error C2059: 语法错误:“}”
+D:\learning C\树与图_实践\树与图_实践\test.c(89,21): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+D:\learning C\树与图_实践\树与图_实践\test.c(89,21): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\learning C\树与图_实践\树与图_实践\test.c(89,24): error C2059: 语法错误:“)”
+D:\learning C\树与图_实践\树与图_实践\test.c(90,1): error C2054: 在“l”之后应输入“(”
+D:\learning C\树与图_实践\树与图_实践\test.c(98,23): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+D:\learning C\树与图_实践\树与图_实践\test.c(98,23): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\learning C\树与图_实践\树与图_实践\test.c(98,26): error C2059: 语法错误:“)”
+D:\learning C\树与图_实践\树与图_实践\test.c(99,1): error C2054: 在“l”之后应输入“(”
+D:\learning C\树与图_实践\树与图_实践\test.c(106,29): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+D:\learning C\树与图_实践\树与图_实践\test.c(106,29): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\learning C\树与图_实践\树与图_实践\test.c(106,34): error C2370: “Elemtype”: 重定义；不同的存储类
+D:\learning C\树与图_实践\树与图_实践\test.c(7): message : 参见“Elemtype”的声明
+D:\learning C\树与图_实践\树与图_实践\test.c(106,43): error C2146: 语法错误: 缺少“;”(在标识符“key”的前面)
+D:\learning C\树与图_实践\树与图_实践\test.c(106,46): error C2059: 语法错误:“)”
+D:\learning C\树与图_实践\树与图_实践\test.c(107,1): error C2054: 在“key”之后应输入“(”
+D:\learning C\树与图_实践\树与图_实践\test.c(113,43): error C2146: 语法错误: 缺少“)”(在标识符“midord”的前面)
+D:\learning C\树与图_实践\树与图_实践\test.c(113,43): error C2081: “Elentype”: 形参表中的名称非法
+D:\learning C\树与图_实践\树与图_实践\test.c(113,43): error C2061: 语法错误: 标识符“midord”
+D:\learning C\树与图_实践\树与图_实践\test.c(113,43): error C2059: 语法错误:“;”
+D:\learning C\树与图_实践\树与图_实践\test.c(113,49): error C2059: 语法错误:“[”
+D:\learning C\树与图_实践\树与图_实践\test.c(113,90): error C2059: 语法错误:“)”
